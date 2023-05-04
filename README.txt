@@ -8,7 +8,7 @@ This Site is my personal portfolio. Its original design is available at HTML5 UP
 
 ## Development
 
-- This we a pre-made site that I thought would look great as a portfolio page. 
+- This was a site that I thought would look great as a portfolio page. I simply downloaded the template and changed it to fit my needs.   
 
 
 
@@ -33,7 +33,7 @@ https://github.com/Edwardwells87/
 https://html5up.net/
 
 - Live App
-
+https://edwardwells87.github.io/ProPortfolio/
 
 	
 
