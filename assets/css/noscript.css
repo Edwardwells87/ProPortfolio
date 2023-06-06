@@ -47,3 +47,52 @@
 		height: auto;
 		margin: 0 auto;
 	}
+
+	
+	#work .project {
+		position: relative;
+		display: inline-block;
+		margin: 10px;
+	}
+	
+	#work .project img {
+		width: 200px; /* Adjust the width as desired */
+		height: auto;
+		transition: transform 0.3s;
+	}
+	
+	#work .project .overlay {
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		opacity: 0;
+		text-align: center;
+		background-color: rgba(0, 0, 0, 0.8);
+		padding: 10px;
+		transition: opacity 0.3s;
+		width: 100%;
+		height: 100%;
+	}
+	
+	#work .project:hover img {
+		transform: scale(1.1); /* Adjust the scale factor as desired */
+	}
+	
+	#work .project:hover .overlay {
+		opacity: 1;
+	}
+	
+	#work .project-name {
+		display: block;
+		font-weight: bold;
+		color: #fff;
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+	
+	#work .project-description {
+		display: block;
+		color: #fff;
+		font-size: 14px;
+	}
