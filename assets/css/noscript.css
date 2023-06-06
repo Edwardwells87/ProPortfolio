@@ -35,3 +35,15 @@
 		opacity: 1;
 		margin: 4rem 0 0 0;
 	}
+	#about {
+		width: 75%;
+		margin: 0 auto;
+		/* Adjust other styles as needed */
+	}
+	
+	#about img {
+		display: block;
+		max-width: 100%;
+		height: auto;
+		margin: 0 auto;
+	}
