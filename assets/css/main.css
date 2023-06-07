@@ -1849,7 +1849,13 @@ body.is-preload #footer {
 
 .project-name,
 .project-description {
-	color: white;
+	color: rgb(189, 181, 181);
 	font-weight: bold;
 	margin-bottom: 10px;
+}
+a:focus,
+a:active {
+  outline: none;
+  border: none;
+  text-decoration: none;
 }
