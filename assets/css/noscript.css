@@ -49,14 +49,14 @@
 	}
 
 	
-	#work .project {
+	/* #work .project {
 		position: relative;
 		display: inline-block;
 		margin: 10px;
 	}
 	
 	#work .project img {
-		width: 200px; /* Adjust the width as desired */
+		width: 200px; 
 		height: auto;
 		transition: transform 0.3s;
 	}
@@ -77,22 +77,21 @@
 	
 	#work .project:hover img {
 		transform: scale(1.1); /* Adjust the scale factor as desired */
-	}
 	
-	#work .project:hover .overlay {
+	/* #work .project:hover .overlay {
 		opacity: 1;
 	}
-	
-	#work .project-name {
+	 */
+	/* #work .project-name {
 		display: block;
 		font-weight: bold;
 		color: #fff;
 		font-size: 16px;
 		margin-bottom: 10px;
-	}
+	} */
 	
-	#work .project-description {
+	/* #work .project-description {
 		display: block;
 		color: #fff;
 		font-size: 14px;
-	}
+	} */ 
